@@ -1,5 +1,3 @@
 Handamde-hero
 
-=========================
-
-Coded followin handmade.org
+Coded following handmade.org
